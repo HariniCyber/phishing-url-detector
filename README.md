@@ -10,7 +10,6 @@ Phishing is one of the most common ways attackers gain access. Many malicious UR
 
 ## ✨ Features
 
-
 Load and clean a public labeled URL dataset
 Extract URL features (see below)
 Baseline model: Logistic Regression
@@ -80,7 +79,6 @@ python predict.py "http://example.com/login"
 | Logistic Regression | to be added | to be added | to be added | to be added |
 | Random Forest | to be added | to be added | to be added | to be added |
 
-Also add the confusion matrix image and one or two sentences on which errors matter most. For phishing, a missed phishing URL (false negative) is usually worse than a false alarm.
 
 ## ⚠️ Limitations
 
